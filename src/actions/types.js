@@ -1,0 +1,14 @@
+//search
+export const SEARCH_TEXT_CHANGED = 'SEARCH_TEXT_CHANGED';
+
+//search list
+export const SET_TIMEZONE_SEARCH_LIST = 'SET_TIMEZONE_SEARCH_LIST';
+export const DELETE_TIMEZONE_SEARCH_LIST = 'DELETE_TIMEZONE_SEARCH_LIST';
+
+//complete list
+export const SET_TIMEZONE_LIST = 'SET_TIMEZONE_LIST';
+export const DELETE_TIMEZONE_LIST = 'DELETE_TIMEZONE_LIST';
+
+//my list
+export const ADD_TIMEZONE = 'ADD_TIMEZONE';
+export const REMOVE_TIMEZONE = 'REMOVE_TIMEZONE';
